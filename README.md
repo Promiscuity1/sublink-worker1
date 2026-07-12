@@ -13,10 +13,10 @@
   <br>
 
 <p style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/7Sageer/sublink-worker">
+  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/kukumi1/sublink-worker1">
     <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" style="height: 32px;"/>
   </a>
-  <a href="https://vercel.com/new/clone?repository-url=https://github.com/7Sageer/sublink-worker&env=KV_REST_API_URL,KV_REST_API_TOKEN&envDescription=Vercel%20KV%20credentials%20for%20data%20storage&envLink=https://vercel.com/docs/storage/vercel-kv">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/kukumi1/sublink-worker1&env=KV_REST_API_URL,KV_REST_API_TOKEN&envDescription=Vercel%20KV%20credentials%20for%20data%20storage&envLink=https://vercel.com/docs/storage/vercel-kv">
     <img src="https://vercel.com/button" alt="Deploy to Vercel" style="height: 32px;"/>
   </a>
 </p>
@@ -104,10 +104,10 @@ This project is for learning and exchange purposes only. Please do not use it fo
 
 Thanks to everyone who has starred this project! 🌟
 
-<a href="https://star-history.com/#7Sageer/sublink-worker&Date">
+<a href="https://star-history.com/#kukumi1/sublink-worker1&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kukumi1/sublink-worker1&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kukumi1/sublink-worker1&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kukumi1/sublink-worker1&type=Date" />
  </picture>
 </a>
